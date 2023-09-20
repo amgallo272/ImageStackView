@@ -1,8 +1,10 @@
 # ImageStackView
 
-Wanted to try designing a stack of imageviews as seen in many popular apps this was my first attempt.
+SWIFT - XCODE - UIKIT - STORYBOARDS
 
-Show Stack of imageviews with first image fully shows and proceeding images as if its underneath as seen in many popular applications.
+Wanted to try designing a stack of imageviews, as seen in many popular apps this was my first attempt.
+
+Show Stack of imageviews with first image fully showing and proceeding images as if its underneath as seen in many popular applications.
 
 Two ways one is with a UIStackView or a UICollectionView
 
